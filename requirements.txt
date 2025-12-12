@@ -1,0 +1,5 @@
+pip install streamlit
+pip install pandas
+pip install paho-mqtt
+pip install plotly
+pip install pyarrow
