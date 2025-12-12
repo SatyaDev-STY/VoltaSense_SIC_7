@@ -21,7 +21,7 @@ st.set_page_config(
 MQTT_BROKER = "broker.hivemq.com"
 MQTT_PORT = 1883
 MQTT_TOPIC = "attendance/student"
-MQTT_CLIENT_ID = "streamlit_dashboard"
+MQTT_CLIENT_ID = "mqttx_610939fe"
 
 # ========== Session State Initialization ==========
 if 'mqtt_connected' not in st.session_state:
